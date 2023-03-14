@@ -1,0 +1,31 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.formContainer {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  box-shadow: 0px 0px 5px 1px blue;
+  border-radius: 5px;
+}
+
+.formTitle {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 26px;
+  color: #1677FF;
+}
