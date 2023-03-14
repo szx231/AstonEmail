@@ -19,6 +19,7 @@ const FavoriteMessage = () => {
           <Tbody>
             {data.map((el, indexMessage: number) => (
               <FavoriteMessageCard
+                key={el.author.email}
                 message={el}
                 name={`${el.author.name} ${el.author.surname}`}
                 messageIsImportant={el.important}
