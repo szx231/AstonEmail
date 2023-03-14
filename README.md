@@ -5,8 +5,8 @@
 - `BackEnd`: cd server npm install npm run dev
 - `PostgreSQL`: cd frontend docker-compose up  
 - `StoryBook`: cd frontend npm run storybook  
-- `.env backEnd`: 'ASTON'
-- `.env frontEnd`: 'ASTON
+- `.env backEnd`: 'SECRET_KEY = 'ASTON'
+- `.env frontEnd`: 'SECRET_KEY = 'ASTON'
 
 
 
