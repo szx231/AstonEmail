@@ -12,7 +12,7 @@
 
 ---
 
-## 🦄 1 уровень (необходимый минимум)
+## 🐣 1 уровень (необходимый минимум)
 - Есть четкое разделение на умные и глупые компоненты: [**Smart**](https://github.com/szx231/AstonEmail/blob/frontend/src/pages/Mail/index.tsx), [**Silly**](https://github.com/szx231/AstonEmail/blob/frontend/src/components/FavoriteMessageCard/index.tsx)
 - Есть рендеринг списков: [**List**](https://github.com/szx231/AstonEmail/blob/frontend/src/pages/AdminPanel/index.tsx), [**List2**](https://github.com/szx231/AstonEmail/blob/frontend/src/pages/FavoriteMessage/index.tsx)
 - Реализована хотя бы одна форма: [**SignUp**](https://github.com/szx231/AstonEmail/blob/frontend/src/pages/Authorization/SignUp/index.tsx)
