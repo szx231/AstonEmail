@@ -28,7 +28,6 @@
 ## 🐗 Redux
 - Используем слайсы : [**Slice1**](https://github.com/szx231/AstonEmail/blob/frontend/src/store/Favorite/index.ts), [**Slice2**](https://github.com/szx231/AstonEmail/blob/frontend/src/store/FilterUsersStatus/index.tsx)
 - Есть хотя бы одна кастомная мидлвара : [**Slice1**](https://github.com/szx231/AstonEmail/blob/frontend/src/store/CustomMiddlware/PrintConsol/index.ts)
-- Используем слайсы : [**Slice1**](https://github.com/szx231/AstonEmail/blob/frontend/src/store/Favorite/index.ts), [**Slice2**](https://github.com/szx231/AstonEmail/blob/frontend/src/store/FilterUsersStatus/index.tsx)
 - Используется RTK Query : [**RTK API**](https://github.com/szx231/AstonEmail/blob/frontend/src/store/EmailsApi/index.tsx)
 - Используется Transforming Responses : [**RTK API**](https://github.com/szx231/AstonEmail/blob/frontend/src/store/EmailsApi/index.tsx)
 
