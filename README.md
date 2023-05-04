@@ -1,5 +1,5 @@
 #  Aston React-project
-#  Реализация: https://www.youtube.com/watch?v=HqWhSQfo8K8
+##  Реализация: https://www.youtube.com/watch?v=HqWhSQfo8K8
 
 ## 🐧 Порядок запуска проекта
 - `Frontend`: cd frontend npm install npm run dev
